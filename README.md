@@ -1,5 +1,9 @@
 ### Hi there 👋
 - I Love listening to Tame Impala and Arctic Monkeys
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Fadil-Tao&color=blueviolet"/> 
+</p>
 <!--
 **Fadil-Tao/Fadil-Tao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
