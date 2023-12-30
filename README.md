@@ -41,24 +41,18 @@
   &emsp;
   <a href="https://tailwind.org target="_blank"><img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></a> 
 </p>
+<br><br>
+
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Currently Learning
  <p align="center">
      &emsp;
-  <a href="https://tailwind.org target="_blank">
-    <img alt="Next" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  </a> 
+  <a href="https://tailwind.org target="_blank"><img alt="Next" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a> 
      &emsp;
-  <a href="https://tailwind.org target="_blank">
-    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  </a> 
+  <a href="https://tailwind.org target="_blank"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a> 
      &emsp;
-  <a href="https://tailwind.org target="_blank">
-    <img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  </a> 
+  <a href="https://tailwind.org target="_blank"><img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a> 
      &emsp;
-  <a href="https://tailwind.org target="_blank">
-    <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
-  </a> 
+  <a href="https://tailwind.org target="_blank"><img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"></a> 
  </p>
 <br><br>
 
