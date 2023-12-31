@@ -7,8 +7,9 @@
 - 🔭 I’m A Undergraduate Computer Science Students At <a href="https://itk.ac.id/">Institut Technology Of Kalimantan</a>
 - 🌱 I’m currently learning Next Js , Unity and MySql
 - 🥅 2024 Goals: <a href="https://gemastik.kemdikbud.go.id/">Gemastik</a> Final >:)
-- ⚡ Fun fact: I can live without for maximum of two days (Still Learning)
+- ⚡ Fun fact: I can live without Sleep for maximum of two days (Still Learning)
 
+![](https://komarev.com/ghpvc/?username=Fadil-Tao&color=01E4D9&style=flat-square)
 ## 🛠️ My Skills
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
