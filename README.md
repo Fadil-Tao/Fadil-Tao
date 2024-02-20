@@ -5,7 +5,7 @@
 
 ##  About me
 - 🔭 I’m A Undergraduate Computer Science Students At <a href="https://itk.ac.id/">Institut Technology Of Kalimantan</a>
-- 🌱 I’m currently learning Next Js , Unity and MySql
+- 🌱 I’m currently learning Go , Flutter and React Native as well c++
 - 🥅 2024 Goals: <a href="https://gemastik.kemdikbud.go.id/">Gemastik</a> Final >:)
 - ⚡ Fun fact: I can live without Sleep for maximum of two days (Still Learning)
 
