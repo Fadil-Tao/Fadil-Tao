@@ -6,7 +6,7 @@
 ##  About me
 - 🔭 I’m A Undergraduate Computer Science Students At <a href="https://itk.ac.id/">Institut Technology Of Kalimantan</a>
 - 🌱 I’m currently learning Go , Kotlin and WebGL 
-- 🥅 2024 Goals: <a href="https://gemastik.kemdikbud.go.id/">Gemastik</a> Final >:)
+- 🥅 2024 Goals: Conquering Byzantine Empire
 
 
 ![](https://komarev.com/ghpvc/?username=Fadil-Tao&color=01E4D9&style=flat-square)
