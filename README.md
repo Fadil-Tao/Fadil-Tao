@@ -1,11 +1,9 @@
 <h1 align="center">Hi , I'm Hadad Fadilah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2301E4D9&size=25&center=true&vCenter=true&width=600&height=100&lines=Penggangguran;Jujustsu+Sorcerers"></a>
-</p>
+
 
 ##  About me
-- 🔭 I’m A Undergraduate Computer Science Students At <a href="https://itk.ac.id/">Institut Technology Of Kalimantan</a>
-- 🌱 I’m currently learning Go , Reversed Cursed Technique and Water Bending 
+- 🔭 I’m an Undergraduate Computer Science Students
+- 🌱 Enjoying mobile development especially android ,also enthusiastic about cyber security competition like ctf
 - 🥅 2024 Goals: Defeating Sukuna 
 
 
