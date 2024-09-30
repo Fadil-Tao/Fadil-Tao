@@ -7,8 +7,11 @@
 
 ##  About me
 - 🔭 I’m an Undergraduate Computer Science Students
-- 🌱 Enjoying mobile development especially android ,also enthusiastic about cyber security competition like ctf  
+- 🌱 Enjoying software engineering
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 
 
