@@ -12,18 +12,18 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 25 July 2024 - To: 11 October 2024
+From: 25 July 2024 - To: 12 October 2024
 
-Total Time: 192 hrs 38 mins
+Total Time: 195 hrs 12 mins
 
-Svelte                     76 hrs 33 mins  >>>>>>>>>>---------------   39.35 %
-Go                         45 hrs 52 mins  >>>>>>-------------------   23.58 %
-TypeScript                 26 hrs 54 mins  >>>----------------------   13.83 %
-Python                     16 hrs 35 mins  >>-----------------------   08.52 %
-SQL                        10 hrs 33 mins  >------------------------   05.42 %
-HTML                       6 hrs 15 mins   >------------------------   03.22 %
-Bash                       3 hrs 1 min     -------------------------   01.55 %
-Other                      1 hr 54 mins    -------------------------   00.98 %
+Svelte                     78 hrs 8 mins   >>>>>>>>>>---------------   39.64 %
+Go                         45 hrs 52 mins  >>>>>>-------------------   23.27 %
+TypeScript                 26 hrs 54 mins  >>>----------------------   13.65 %
+Python                     16 hrs 35 mins  >>-----------------------   08.41 %
+SQL                        11 hrs 21 mins  >------------------------   05.77 %
+HTML                       6 hrs 25 mins   >------------------------   03.26 %
+Bash                       3 hrs 1 min     -------------------------   01.53 %
+Other                      1 hr 54 mins    -------------------------   00.97 %
 ```
 
 <!--END_SECTION:waka-->
