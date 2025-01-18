@@ -12,16 +12,16 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 25 July 2024 - To: 15 January 2025
+From: 25 July 2024 - To: 16 January 2025
 
-Total Time: 537 hrs 21 mins
+Total Time: 537 hrs 41 mins
 
-Svelte                     223 hrs 17 mins >>>>>>>>>>---------------   41.35 %
-Go                         101 hrs 31 mins >>>>>--------------------   18.80 %
-TypeScript                 53 hrs 50 mins  >>-----------------------   09.97 %
+Svelte                     223 hrs 17 mins >>>>>>>>>>---------------   41.32 %
+Go                         101 hrs 51 mins >>>>>--------------------   18.85 %
+TypeScript                 53 hrs 50 mins  >>-----------------------   09.96 %
 JavaScript                 42 hrs 24 mins  >>-----------------------   07.85 %
 SQL                        39 hrs 55 mins  >>-----------------------   07.39 %
-Python                     19 hrs 31 mins  >------------------------   03.62 %
+Python                     19 hrs 31 mins  >------------------------   03.61 %
 Haskell                    16 hrs 37 mins  >------------------------   03.08 %
 Markdown                   7 hrs 53 mins   -------------------------   01.46 %
 HTML                       7 hrs 39 mins   -------------------------   01.42 %
