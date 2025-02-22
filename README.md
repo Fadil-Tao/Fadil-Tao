@@ -7,7 +7,9 @@
 
 ##  About me
 - 🔭 I’m an Undergraduate Computer Science Students
-- 🌱 Enjoying software engineering
+- 🌱 Enjoys software engineering
+- Want to learn cloud and infra 
+- Definitely not a venti fans
 
 <!--START_SECTION:waka-->
 
