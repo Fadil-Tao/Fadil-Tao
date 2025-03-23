@@ -1,15 +1,15 @@
-<h1 align="center">Hi , I'm Hadad Fadilah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
+<h1 align="center">Hi , I'm Hadad Fadilah  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" ></h1>
+<p align="center"><span>Or You can call me Fabian<span>Fabian</span></p>
 <p align="center">
 <img src="https://media.tenor.com/78dNivDemDAAAAAi/speech-bubble-venti.gif" width="300"/>    
 </p>
 
-
 ##  About me
-- 🔭 I’m an Undergraduate Computer Science Students
-- 🌱 Enjoys software engineering
-- Want to learn cloud and infra 
-- Definitely not a venti fans
+- 🤓 I’m an Undergraduate Computer Science Students
+- 🍰 Enjoying software engineering
+- ☁️ Learning cloud and platform engineering
+- 🧰 Currently building apps with Go, PHP and Typescript 
+- 🏃‍♂️ Definitely not a venti fans
 
 Contact Me : fabianvka@proton.me
 
