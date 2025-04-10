@@ -16,20 +16,20 @@ Contact Me : fabianvka@proton.me
 <!--START_SECTION:waka-->
 
 ```go
-From: 25 July 2024 - To: 07 April 2025
+From: 25 July 2024 - To: 08 April 2025
 
-Total Time: 643 hrs 31 mins
+Total Time: 646 hrs 18 mins
 
-Svelte                     223 hrs 34 mins >>>>>>>>>----------------   34.43 %
-Go                         122 hrs 36 mins >>>>>--------------------   18.88 %
-TypeScript                 56 hrs 29 mins  >>-----------------------   08.70 %
-PHP                        52 hrs 55 mins  >>-----------------------   08.15 %
-SQL                        44 hrs 7 mins   >>-----------------------   06.80 %
-JavaScript                 42 hrs 42 mins  >>-----------------------   06.58 %
-Python                     21 hrs 30 mins  >------------------------   03.31 %
-Blade Template             17 hrs 20 mins  >------------------------   02.67 %
-Haskell                    16 hrs 37 mins  >------------------------   02.56 %
-Bash                       10 hrs 39 mins  -------------------------   01.64 %
+Svelte                     223 hrs 34 mins >>>>>>>>>----------------   34.28 %
+Go                         123 hrs 50 mins >>>>>--------------------   18.99 %
+TypeScript                 56 hrs 29 mins  >>-----------------------   08.66 %
+PHP                        52 hrs 57 mins  >>-----------------------   08.12 %
+SQL                        44 hrs 7 mins   >>-----------------------   06.77 %
+JavaScript                 42 hrs 46 mins  >>-----------------------   06.56 %
+Python                     21 hrs 30 mins  >------------------------   03.30 %
+Blade Template             17 hrs 20 mins  >------------------------   02.66 %
+Haskell                    16 hrs 37 mins  >------------------------   02.55 %
+Bash                       10 hrs 49 mins  -------------------------   01.66 %
 ```
 
 <!--END_SECTION:waka-->
