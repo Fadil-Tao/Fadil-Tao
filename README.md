@@ -16,7 +16,7 @@ Contact Me : fabianvka@proton.me
 <!--START_SECTION:waka-->
 
 ```go
-From: 25 July 2024 - To: 15 April 2025
+From: 25 July 2024 - To: 16 April 2025
 
 Total Time: 658 hrs 44 mins
 
