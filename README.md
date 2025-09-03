@@ -16,9 +16,9 @@ Contact Me : fabianvka@proton.me
 <!--START_SECTION:waka-->
 
 ```go
-From: 25 July 2024 - To: 31 August 2025
+From: 25 July 2024 - To: 01 September 2025
 
-Total Time: 937 hrs 29 mins
+Total Time: 937 hrs 35 mins
 
 Svelte                     224 hrs 8 mins  >>>>>>-------------------   23.72 %
 TypeScript                 211 hrs 21 mins >>>>>>-------------------   22.37 %
