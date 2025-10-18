@@ -8,7 +8,7 @@
 - 🤓 I’m an Undergraduate Computer Science Students
 - 🍰 Enjoying software engineering
 - ☁️ Learning cloud and platform engineering
-- 🧰 Currently building apps with Go, PHP and Typescript 
+- 🧰 Currently building apps with Go and Typescript 
 - 🏃‍♂️ Definitely not a venti fans
 
 Contact Me : fabianvka@proton.me
