@@ -11,7 +11,7 @@
 - 🧰 Currently building apps with Go and Typescript 
 - 🏃‍♂️ Definitely not a venti fans
 
-Contact Me : fabianvka@proton.me
+Contact Me : fadil.devp@gmail.com
 
 <!--START_SECTION:waka-->
 
