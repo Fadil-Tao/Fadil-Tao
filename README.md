@@ -4,13 +4,6 @@
 <img src="https://media.tenor.com/78dNivDemDAAAAAi/speech-bubble-venti.gif" width="300"/>    
 </p>
 
-##  About me
-- 🤓 I’m an Undergraduate Computer Science Students
-- 🍰 Enjoying software engineering
-- ☁️ Learning cloud and platform engineering
-- 🧰 Currently building apps with Go and Typescript 
-- 🏃‍♂️ Definitely not a venti fans
-
 Contact Me : fadil.devp@gmail.com
 
 <!--START_SECTION:waka-->
