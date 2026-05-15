@@ -9,14 +9,14 @@ Contact Me : fadil.devp@gmail.com
 <!--START_SECTION:waka-->
 
 ```go
-From: 25 July 2024 - To: 12 May 2026
+From: 25 July 2024 - To: 14 May 2026
 
-Total Time: 1,522 hrs 41 mins
+Total Time: 1,525 hrs
 
-TypeScript                 626 hrs 15 mins       >>>>>>>>>>---------------   40.73 %
-Svelte                     224 hrs 26 mins       >>>>---------------------   14.60 %
-Go                         218 hrs 56 mins       >>>>---------------------   14.24 %
-Python                     80 hrs 13 mins        >------------------------   05.22 %
+TypeScript                 626 hrs 15 mins       >>>>>>>>>>---------------   40.67 %
+Svelte                     224 hrs 26 mins       >>>>---------------------   14.57 %
+Go                         218 hrs 56 mins       >>>>---------------------   14.22 %
+Python                     82 hrs 26 mins        >------------------------   05.35 %
 PHP                        76 hrs                >------------------------   04.94 %
 SQL                        48 hrs 2 mins         >------------------------   03.12 %
 JavaScript                 47 hrs 40 mins        >------------------------   03.10 %
