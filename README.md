@@ -9,7 +9,7 @@ Contact Me : fadil.devp@gmail.com
 <!--START_SECTION:waka-->
 
 ```go
-From: 25 July 2024 - To: 26 June 2026
+From: 25 July 2024 - To: 27 June 2026
 
 Total Time: 1,574 hrs 32 mins
 
