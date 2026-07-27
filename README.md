@@ -9,9 +9,9 @@ Contact Me : fadil.devp@gmail.com
 <!--START_SECTION:waka-->
 
 ```go
-From: 25 July 2024 - To: 24 July 2026
+From: 25 July 2024 - To: 25 July 2026
 
-Total Time: 1,597 hrs 11 mins
+Total Time: 1,597 hrs 14 mins
 
 TypeScript                 629 hrs 21 mins       >>>>>>>>>>---------------   38.81 %
 Go                         234 hrs 33 mins       >>>>---------------------   14.46 %
